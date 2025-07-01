@@ -1,2 +1,2 @@
 # mortalmeme
-A videogame created with Arcada
+A videogame created with Arcade
